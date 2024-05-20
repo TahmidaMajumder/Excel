@@ -1,6 +1,6 @@
 This dataset is from Kaggle: Calles: Sales.csv
 
-Shape: (113,037, 18)
+Shape: (113037, 18)
 
 About: This dataset is a report of bike sales in different countries from 2011-2016. This dataset consists column named Date, Day, Month, Year, Customer_Age, Age_Group, Gender, Country, State, Product_Category, Sub_Category, Product, Order_Quantity, Unit_Cost, Unit_Price, Profit, Profit, Cost, Revenue. 
 
